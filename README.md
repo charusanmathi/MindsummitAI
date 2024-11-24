@@ -49,3 +49,10 @@ GOOGLE_API_KEY=your_api_key_here
 streamlit run app.py
 ````
 
+## 🌟 Try It Out!
+
+Explore Mindsummit and experience the potential of AI in Q&A, image generation, and summarization.
+
+## 🤝 Contributing
+
+Contributions are welcome!
